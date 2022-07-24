@@ -13,3 +13,4 @@ Knowledges and tools:
 Learning:
 1) Основы алгоритмического программирования
 2) Django
+3) SQL
